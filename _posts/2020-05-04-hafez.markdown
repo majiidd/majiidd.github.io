@@ -1,0 +1,17 @@
+---
+title: "Hafez"
+layout: post
+date: 2020-05-04 16:00
+tag: [persian, art, poem]
+headerImage: false
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Hafez's poems with diacritic"
+category: project
+author: majid
+externalLink: false
+---
+Hafez's poems with diacritic
+---
+
+[hafez.to](https://hafez.to)
